@@ -1,0 +1,2 @@
+1. The file format is .ipynb.
+2. Open it in Jupyter Notebook and if required Run All.
